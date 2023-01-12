@@ -92,5 +92,5 @@ I would like to thank my coding partners
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./mit.md) licensed.
 
